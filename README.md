@@ -43,4 +43,5 @@ Try it live on Hugging Face Spaces:
 
 ---
 
-## 📁 Project Structure
+## LINKEDIN
+https://www.linkedin.com/in/shumas-kashif-chohan-54b51830b/
