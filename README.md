@@ -42,6 +42,20 @@ Try it live on Hugging Face Spaces:
 | GitHub | Version control & portfolio showcase |
 
 ---
+## Future Improvements
 
-## LINKEDIN
-https://www.linkedin.com/in/shumas-kashif-chohan-54b51830b/
+* Improve model accuracy with larger datasets
+* Add attention-based models (LSTM / Transformers)
+* Deploy with GPU support
+* Add visualization of prediction confidence
+
+
+
+## Author
+
+SHUMAS CHOHAN
+
+Aspiring **AI Engineer / Data Scientist**
+EMAIL : shumaschohan0@gmail.com 
+Connect with me on LinkedIn:
+(https://www.linkedin.com/in/shumas-kashif-chohan-54b51830b/)
